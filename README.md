@@ -1,2 +1,0 @@
-# ZUZU-Project
-Zuzu Project
